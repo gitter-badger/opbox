@@ -1,4 +1,6 @@
 # OpBox
+
+[![Join the chat at https://gitter.im/luipillmann/opbox](https://badges.gitter.im/luipillmann/opbox.svg)](https://gitter.im/luipillmann/opbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This project contains the first version for the development of OpBox software.
 
 ## About
